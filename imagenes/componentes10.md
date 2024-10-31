@@ -1,7 +1,6 @@
 ![componente 1](1.png)
 
- <ion-content class="ion-padding">
-      <!-- Barra de búsqueda -->
+''
       <ion-searchbar show-cancel-button="always" placeholder="Contenidos"></ion-searchbar>
 
 ![componente 2](2.png)
